@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">usthx</string>
+    <string name="log_in_to_your_account">Log in to Your Account</string>
+    <string name="continue_with_x">CONTINUE WITH X</string>
+    <string name="x_logo">X Logo</string>
+</resources>
